@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Escena Introducci\xF3n a Unity.unity"
+  isLoaded: 1
+  isActive: 1
